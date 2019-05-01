@@ -1,1 +1,1 @@
-3DMovie made in Autodesk maya including detail pictures
+3DMovie made in Autodesk maya only including pictures
